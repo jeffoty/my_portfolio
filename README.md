@@ -11,6 +11,10 @@ The portfolio project is a showcase of my work, skills, and accomplishments as a
 
 ## Live Demo
 
+```
+https://jeffoty-portfolio.netlify.app/
+```
+
 ## Getting Started
 
 To get started with this portfolio template, follow these simple steps:
