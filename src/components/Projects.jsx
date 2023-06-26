@@ -138,7 +138,7 @@ const Projects = () => {
         whileInView="show"
         viewport={{ once: false, amount: 0.25 }}
         className={`${styles.innerWidth} mx-auto flex flex-col`}>
-        {/* <div className="mt-[50px] flex lg:flex-row flex-col min-h-[70vh] gap-5">
+        <div className="mt-[50px] flex lg:flex-row flex-col min-h-[70vh] gap-5">
           {projects.map((project, index) => (
             <ProjectCard
               key={project.id}
@@ -148,12 +148,9 @@ const Projects = () => {
               handleClick={setActive}
             />
           ))}
-        </div> */}
-        <br />
-        <br />
-        <div>
-          <h1>This Section is Under Maintenance</h1>
         </div>
+        <br />
+        <br />
       </motion.div>
     </div>
   );

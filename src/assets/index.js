@@ -48,9 +48,10 @@ import microverse from './company/microverse.png';
 import komikult from './projects/komikult.png';
 import leaderboard from './projects/leaderboard.png';
 import math from './projects/math-magicians.png';
-import movie from './projects/movie-metro.png';
 import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
+import movie from './projects/movie.png'
+import moringa from './projects/moringa.png'
 
 export {
   bwmap,
@@ -92,6 +93,7 @@ export {
   leaderboard,
   math,
   movie,
+  moringa,
   nyeusi,
   space,
   coverhunt,
